@@ -1,5 +1,5 @@
 ---
-id: forever-free
+id: rehan-free
 title: The Forever Free Tier
 sidebar_label: The Forever Free Tier
 slug: /forever-free
